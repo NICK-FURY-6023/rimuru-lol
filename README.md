@@ -4,15 +4,13 @@ Application initially made to periodically notify on Discord channels about job 
 
 ## Features
 
-* 🟦 Typescript
-* 🔥 Slash Commands 
-* ✉️ Message commands
-* 🕛 Cooldowns
-* 🏴 Permissões detalhadas
-* 💪 Event & Command handlers
-* 🍃 MongoDB Support
-* 🍃 [DEACTIVATED] Instagram API Consumption 
-* 🍃 Tickets
+*  Slash Commands 
+*  Message commands
+*  Cooldowns
+*  Event & Command handlers
+*  MongoDB Support
+*  Instagram API Consumption 
+*  Tickets
 
 
 ## Usage example
