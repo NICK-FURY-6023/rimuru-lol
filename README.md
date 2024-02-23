@@ -1,8 +1,8 @@
-# rimuru-bot
+# Rimuru-bot
 Application initially made to periodically notify on Discord channels about job opportunity being advertised on certain Instagram profiles.
 
 
-## Features
+## 🤖Features
 
 *  Slash Commands 
 *  Message commands
@@ -13,12 +13,12 @@ Application initially made to periodically notify on Discord channels about job 
 *  Tickets
 
 
-## Usage example
+## 🖼️Usage example
 
 !["Embed Instagram"](https://i.imgur.com/LbSx5m0.png)
 
 
-## Installation, Build and Run
+## 🛠️Installation, Build and Run
 1) Clone the repository then create a file named `.env` and fill it out accordingly
 
 1) Install typescript, To install TypeScript, you can run the following command in your terminal, This will install the latest version of TypeScript globally on your computer. (You can skip this if you already have typescript installed)
@@ -35,7 +35,7 @@ npm start
 ```
 
 
-## Configuration
+## ⚙️Configuration
 
 To run this project you will need to put the following environment variables in .env file.
 
